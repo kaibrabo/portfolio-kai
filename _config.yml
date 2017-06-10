@@ -6,11 +6,11 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Kainoa Brabo # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "A professional portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Software Engineer ~ Cyclist ~ Media Specialist</h1>
+     <h1>Software Engineer ~ Cyclist</h1>
      <p>I'm a Developer and Engineer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
