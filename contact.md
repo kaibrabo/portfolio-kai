@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Kainoa Brabo
+Kainoa Brabo<br>
 San Rafael, CA 94901
 
 Ph: 415.377.6516
