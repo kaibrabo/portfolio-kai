@@ -14,7 +14,9 @@ short-description: BlocJams is a Spotify replica to stream your music library.
 
 ## Explanation
 
-Introducing BlocJams, a streaming service for your music library. BlocJams eliminates the need to sync your phone to your computer, take up memory on the device and allows remote listening anywhere on any device.  There are streaming services like Itunes and Spotify, but what should you do with all the music you've acquired throughout the years? This app is of most use to anyone who would like to listen to their entire music library without having to sync to a computer.  With streaming, another benefit is use on any device connected to internet.  
+There are streaming services like Itunes and Spotify, but what should you do with all the music you've acquired throughout the years?  
+
+Introducing BlocJams, a streaming service for your music library.  BlocJams eliminates the need to sync your phone to your computer, taking up memory on the device, and allows remote listening anywhere on any device.  This app is of most use to anyone who would like to listen to their entire music library without having to sync to a computer.  With streaming, another benefit is use on any device connected to internet.  
 
 My role was to design and implement a functional music player that retrieves and plays an existing music library.
 
@@ -30,11 +32,11 @@ There is a pursuit to become completely disconnected from wires and using up mem
 
 ## Solution
 
-BlocJams will allow users to have their entire library asynchronous to any device loaded with the app.  With the demand of a fluid user experience, I used AngularJS for this project.  AngularJS allows smooth transitions without reloading the pages, yet only loads the right information when needed, making it ideal for efficiency.  The explicit HTML directives and services made the app perform seamlessly when transitioning between templates, as well as helped with the debugging process.
+BlocJams will allow users to have their entire library synchronous on any device loaded with the app.  With the demand of a fluid user experience, I used AngularJS for this project.  AngularJS allows smooth transitions without reloading the pages, yet only loads the right information when needed, making it ideal for efficiency.  The explicit HTML directives and services made the app perform seamlessly when transitioning between templates, as well as helped with the debugging process.
 
 ## Results
 
-AngularJS enabled a simplified working app, reduced amount of Vanilla JS, made the code clearer for anyone looking to improve on the app.  Refactoring the app with create a richer user experience, showing the app has been well-built.
+AngularJS enabled a simplified working app, reduced amount of Vanilla JS, made the code clearer for anyone looking to improve on the app.  Refactoring the app created a richer user experience, showing the app has been well-built.
 
 > SPA's, Single Page Applications, work efficiently using templates that are loaded when needed, which only changes the specific section and not the whole page.  This increases efficiency and an immaculate user experience.
 

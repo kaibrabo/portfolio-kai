@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: About Kainoa
-permalink: /about/
-feature-img: "img/profile.png"
+feature-img: "img/sample_feature_img.png"
 ---
 October 4, 1991
 
