@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 thumbnail-path: "img/BlocJams - AlbumView.png"
-short-description: BlocJams is a Spotify replica to stream your music library.
+short-description: a Spotify replica built using AngularJS.
 
 ---
 

@@ -1,5 +1,12 @@
 // Header text feature
+body {
+	background-color: #aeb5ba;
+}
+header {
+	background-color: #aeb5ba;
+}
 .call-out {
+	background-color: #aeb5ba;
   padding:5% 0;
   display: inline-block;
   width: 100%;
@@ -12,9 +19,9 @@
     display:block;
     width:100%;
     a {
-      font-size:0.8em;
+      font-size:1em;
       text-transform: uppercase;
-      color:#d8d8d8;
+      color: #112f44;
     }
   }
   ul {
