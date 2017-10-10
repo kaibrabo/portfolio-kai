@@ -73,3 +73,5 @@ sass:
   # style: :compressed
 
 gems: [jekyll-paginate]
+
+theme: jekyll-theme-slate
