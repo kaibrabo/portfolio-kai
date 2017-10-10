@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Kainoa
+title: About Me
 feature-img: "img/sample_feature_img.png"
 ---
 October 4, 1991

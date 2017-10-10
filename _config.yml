@@ -11,10 +11,10 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Software Engineer ~ Cyclist</h1>
-     <p>I'm a Developer and Engineer specializing in Rails, AngularJS, and MongoDB.</p>
+     <p>I'm a Ruby on Rails and MEAN stack engineer who enjoys building intuitive, functional, and immaculate applications with Test Driven Development.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Built by KB 2017
 
   # Icons
   rss: false
@@ -53,7 +53,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
+  google_fonts: "400,700bold|Nato+Sans"
 
 # PAGINATION
 paginate: 100
@@ -70,6 +70,6 @@ markdown: kramdown
 
 sass:
   sass_dir: _sass
-  style: :compressed
+  # style: :compressed
 
 gems: [jekyll-paginate]
